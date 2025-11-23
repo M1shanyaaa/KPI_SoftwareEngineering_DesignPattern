@@ -1,21 +1,20 @@
 # Design Patterns Project — Full README
 
-## 📌 Загальна інформація
-Цей проєкт містить **усі лабораторні роботи, МКР та демонстраційні модулі**, виконані в рамках дисципліни *«Програмна інженерія. Шаблони проєктування»*.  
-Кожна лабораторна реалізує окремий шаблон проєктування або демонструє важливі принципи ООП.
+## 📌 General Information
+This project contains **all laboratory works, MKR (Modular Control Works), and demonstration modules** completed within the framework of the discipline *“Software Engineering. Design Patterns”*. Each lab implements a specific design pattern or demonstrates important OOP principles.
 
-У проєкті представлені патерни:
+The project features the following patterns:
 
 - **Builder**
 - **Decorator**
 - **Factory**
 - **Proxy**
 - **Facade**
-- а також модулі з інтерфейсами, абстракціями та розширеними GUI-прикладами
+- as well as modules with interfaces, abstractions, and extended GUI examples
 
 ---
 
-# 📂 Структура проєкту
+# 📂 Project Structure
 
 ```bash
 KPI_SoftwareEngineering_DesignPattern/
@@ -30,7 +29,7 @@ KPI_SoftwareEngineering_DesignPattern/
 ├── lab8ProVersionGUI/
 ├── MKR1/
 ├── TEST1/
-└── doc/ # Автоматично згенерований Javadoc
+└── doc/ # Automatically generated Javadoc
 ```
 
 
