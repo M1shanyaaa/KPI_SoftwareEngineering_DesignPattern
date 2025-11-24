@@ -1,4 +1,4 @@
-# Design Patterns Project — Full README
+# Design Patterns Project
 
 ## 📌 General Information
 This project contains **all laboratory works, MKR (Modular Control Works), and demonstration modules** completed within the framework of the discipline *“Software Engineering. Design Patterns”*. Each lab implements a specific design pattern or demonstrates important OOP principles.
